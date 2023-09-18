@@ -1,3 +1,8 @@
+> **ATTENTION** This is an experimental test of [The Carpentries Workbench](https://carpentries.github.io/workbench) lesson infrastructure.
+> It was automatically converted from the source lesson via [the lesson transition script](https://github.com/carpentries/lesson-transition/).
+> 
+> If anything seems off, please contact Zhian Kamvar [zkamvar@carpentries.org](mailto:zkamvar@carpentries.org)
+
 [![DOI](https://zenodo.org/badge/92422998.svg)](https://zenodo.org/badge/latestdoi/92422998)
 
 # Social Sciences Workshop
@@ -10,10 +15,12 @@ All participants should agree to abide by the [Carpentries Code of Conduct](http
 
 ## Authors
 
-The Social Sciences workshop overview is authored and maintained by the [Curriculum Advisory Committee](http://www.datacarpentry.org/lesson-leadership/#curriculum-advisors---social-sciences).
+The Social Sciences workshop overview is authored and maintained by the [Curriculum Advisory Committee](https://www.datacarpentry.org/lesson-leadership/#curriculum-advisors---social-sciences).
 
 ## Citation
 
 Please cite as:
 
-Data Carpentry Social Sciences Workshop. May 2018. 
+Data Carpentry Social Sciences Workshop. May 2018.
+
+
